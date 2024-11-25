@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+    <script src="/index.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h1 class="bg-primary text-white text-center mt-3 p-1">Final Prog 3</h1>
+        </div>
+        <div class="form-group">
+            <form id="sucursalForm">
+                    <div class="form-group">                                                <!--borrar esto-->
+                        <label for="nombre">Guid</label>                                    <!--borrar esto-->
+                        <input type="text" class="form-control" id="guid" required disabled><!--borrar esto-->
+                    </div>                                                                  <!--borrar esto-->  
+                    <div class="form-group">
+                        <label for="nombre">Nombre</label>
+                        <input type="text" class="form-control" id="nombre" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="nombreCiudad">Nombre de la Ciudad</label>
+                        <input type="text" class="form-control" id="nombreCiudad" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="tipo">Tipo</label>
+                        <select class="form-control" id="tipo" required>
+                            <option value="" disabled selected>-- Selecciona una Tipo --</option>
+                            <option value="e0660d87-3e12-4837-882b-d8927a265ac7">Pequeña</option>
+                            <option value="776ff474-fa61-434c-941c-3a5426fbde1d">Grande</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="provincia">Provincia</label>
+                        <select class="form-control" id="provincia" required>
+                            <option value="" disabled selected>-- Selecciona una Provincia --</option>
+                            <option value="5deb1099-8449-4f26-b945-4ef1d8faa617">Buenos Aires</option>
+                            <option value="3ce90c95-b9bc-4756-a86c-c36e0081f76d">Córdoba</option>
+                            <option value="d7a74855-8a78-4db3-aadd-57513aae53b8">Salta</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="telefono">Teléfono</label>
+                        <input type="text" class="form-control" id="telefono" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="nombreTitular">Nombre Titular</label>
+                        <input type="text" class="form-control" id="nombreTitular" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="apellidoTitular">Apellido Titular</label>
+                        <input type="text" class="form-control" id="apellidoTitular" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="fechaAlta">Fecha de Alta</label>
+                        <input class="form-control" id="fechaAlta" type="datetime" readonly disabled>
+                    </div>
+                    <button type="submit" class="btn btn-primary mt-3">Actualizar</button>
+                </form>
+            
+        </div>
+    </div>
+</body>
+</html>

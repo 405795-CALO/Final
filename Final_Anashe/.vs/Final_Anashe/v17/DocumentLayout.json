@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\modelos\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\modelos\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|c:\\users\\gigabyte\\source\\repos\\final_anashe\\final_anashe\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE3644B-0C5A-4FAD-B1E0-75283BC5A31A}|Final_Anashe\\Final_Anashe.csproj|solutionrelative:final_anashe\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Modelos\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Modelos\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Modelos\\Sucursal.cs",
+              "RelativeToolTip": "Final_Anashe\\Modelos\\Sucursal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:38:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Program.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Program.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Program.cs",
+              "RelativeToolTip": "Final_Anashe\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:31:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Final_Anashe\\Controllers\\Controller.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:13:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Services\\Service.cs",
+              "RelativeToolTip": "Final_Anashe\\Services\\Service.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowDwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:39:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Services\\IService.cs",
+              "RelativeToolTip": "Final_Anashe\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:39:08.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Final_Anashe\\Repositories\\Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwC0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:03:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Final_Anashe\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Final_Anashe\\Final_Anashe\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Final_Anashe\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:03:28.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
